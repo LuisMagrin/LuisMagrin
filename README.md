@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! <br>Meu nome é Luís e atualmente estou cursando Desenvolvimento de Sistemas no Cotil-Unicamp.</h2>
+<h2 align="left">🌐Olá! Sou o Luís Magrin <br>💻Atualmente estou cursando Desenvolvimento de Sistemas no Cotil-Unicamp.<br>🚀Estou sempre buscando aprimorar minhas habilidades.</h2>
 
 ###
 
