@@ -1,4 +1,4 @@
-<h2 align="left">🌐Olá! Sou Luís Magrin <br>💻Cursando Desenvolvimento de Sistemas no Cotil-Unicamp.<br>🚀Estou sempre buscando aprimorar minhas habilidades.</h2>
+<h2 align="left">🌐Olá! Me chamo Luís Magrin <br>💻Cursando Desenvolvimento de Sistemas no Cotil-Unicamp.<br>🚀Estou sempre buscando aprimorar minhas habilidades.</h2>
 
 ###
 
