@@ -1,4 +1,4 @@
-<h2 align="left">🌐Olá! Me chamo Luís Magrin. <br>💻Cursando Desenvolvimento de Sistemas no Cotil-Unicamp.<br>🚀Meu primeiro site [Biografias - 30PRAUM](https://luismagrin.github.io/biografias-30praum/).</h2>
+<h2 align="left">🌐Olá! Me chamo Luís Magrin. <br>💻Cursando Desenvolvimento de Sistemas no Cotil-Unicamp.<br>🚀Meu primeiro site https://luismagrin.github.io/biografias-30praum/.</h2>
 
 ###
 
